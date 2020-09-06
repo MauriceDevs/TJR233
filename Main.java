@@ -1,3 +1,13 @@
+// Name : Tyler Richard
+// CptS 233 MicroAssignment #01 
+// 9/6/20
+// gitRepo URL : https://github.com/MauriceDevs/TJR233
+
+// Apologies on the tardiness. I had the program written with a lot of time to spare,
+// but I ran into some issues pushing from the command line.
+
+
+
 import java.util.Scanner;
 import java.io.*;
 
